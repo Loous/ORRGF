@@ -20,3 +20,9 @@ Si existen directorios en la ruta dada con el nombre de una extensión por ejemp
 archivos con el sufijo .txt, entonces no se generara ningún directorio y los archivos con el sufijo
 dado no se moveran al directorio ya existente porque se mezclaría con otros archivos que existan
 en el directorio previamente creado. 
+
+# Contact
+
+leogordon629@gmail.com
+
+
